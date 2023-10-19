@@ -3,3 +3,5 @@
 teste
 
 salvando alterações
+
+Comando git pull
